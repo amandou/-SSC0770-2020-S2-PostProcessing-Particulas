@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 0eb8bd6af75d291429bd7a71e6247a73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4432748860714130825
+    second: knight 3 no weapon_0
+  - first:
+      213: -7026312417106682817
+    second: knight 3 no weapon_1
+  - first:
+      213: -2323934800770259620
+    second: knight 3 no weapon_2
+  - first:
+      213: 4773118724231566450
+    second: knight 3 no weapon_3
+  - first:
+      213: -4109499830183281788
+    second: knight 3 no weapon_4
+  - first:
+      213: 4333339921144469246
+    second: knight 3 no weapon_5
+  - first:
+      213: -5385236687216719658
+    second: knight 3 no weapon_6
+  - first:
+      213: 6296666746205912203
+    second: knight 3 no weapon_7
+  - first:
+      213: 7485477010137919702
+    second: knight 3 no weapon_8
+  - first:
+      213: -8958774279572098329
+    second: knight 3 no weapon_9
+  - first:
+      213: -2827018300151757476
+    second: knight 3 no weapon_10
+  - first:
+      213: -8620985613757735874
+    second: knight 3 no weapon_11
+  - first:
+      213: 1400408840133103218
+    second: knight 3 no weapon_12
+  - first:
+      213: 8056736151570276770
+    second: knight 3 no weapon_13
+  - first:
+      213: -8941603428643440550
+    second: knight 3 no weapon_14
+  - first:
+      213: -3822048170932568307
+    second: knight 3 no weapon_15
+  - first:
+      213: -6769173563877649048
+    second: knight 3 no weapon_16
+  - first:
+      213: 1697228268302790865
+    second: knight 3 no weapon_17
+  - first:
+      213: -8439102927684678487
+    second: knight 3 no weapon_18
+  - first:
+      213: 2898978076197765470
+    second: knight 3 no weapon_19
+  - first:
+      213: -2725350790273948670
+    second: knight 3 no weapon_20
+  - first:
+      213: -6501637992217414951
+    second: knight 3 no weapon_21
+  - first:
+      213: 6956363522475205520
+    second: knight 3 no weapon_22
+  - first:
+      213: -8311035709662823462
+    second: knight 3 no weapon_23
+  - first:
+      213: 2173258607106817939
+    second: knight 3 no weapon_24
+  - first:
+      213: 4323657284494195044
+    second: knight 3 no weapon_25
+  - first:
+      213: 4136270576399243562
+    second: knight 3 no weapon_26
+  - first:
+      213: 3472086056337401994
+    second: knight 3 no weapon_27
+  - first:
+      213: 607033194435930482
+    second: knight 3 no weapon_28
+  - first:
+      213: -5980988689096161222
+    second: knight 3 no weapon_29
+  - first:
+      213: 314844201353043244
+    second: knight 3 no weapon_30
+  - first:
+      213: -6822819584438640621
+    second: knight 3 no weapon_31
+  - first:
+      213: 2250873210506973630
+    second: knight 3 no weapon_32
+  - first:
+      213: -7520168083578421092
+    second: knight 3 no weapon_33
+  - first:
+      213: 6545048455697221039
+    second: knight 3 no weapon_34
+  - first:
+      213: -7244546129015222001
+    second: knight 3 no weapon_35
+  - first:
+      213: -2743898070471991364
+    second: knight 3 no weapon_36
+  - first:
+      213: 6898324399382187089
+    second: knight 3 no weapon_37
+  - first:
+      213: 4905724266746578845
+    second: knight 3 no weapon_38
+  - first:
+      213: -2672566090868005730
+    second: knight 3 no weapon_39
+  - first:
+      213: -5864034640964493495
+    second: knight 3 no weapon_40
+  - first:
+      213: 7194390060729259476
+    second: knight 3 no weapon_41
+  - first:
+      213: 4702904848628074757
+    second: knight 3 no weapon_42
+  - first:
+      213: 2529226291652478840
+    second: knight 3 no weapon_43
+  - first:
+      213: -3272979127700243445
+    second: knight 3 no weapon_44
+  - first:
+      213: 1188488245893341953
+    second: knight 3 no weapon_45
+  - first:
+      213: -3402548552995087574
+    second: knight 3 no weapon_46
+  - first:
+      213: -8620848110685918232
+    second: knight 3 no weapon_47
+  - first:
+      213: -4449913203569790360
+    second: knight 3 no weapon_48
+  - first:
+      213: 5358613163291021220
+    second: knight 3 no weapon_49
+  - first:
+      213: 402490337689072269
+    second: knight 3 no weapon_50
+  - first:
+      213: -8442976769572563781
+    second: knight 3 no weapon_51
+  - first:
+      213: -820924376546114377
+    second: knight 3 no weapon_52
+  - first:
+      213: 6088011718490384271
+    second: knight 3 no weapon_53
+  - first:
+      213: -4769022304758810915
+    second: knight 3 no weapon_54
+  - first:
+      213: -1916845324316637580
+    second: knight 3 no weapon_55
+  - first:
+      213: -8028324510760799264
+    second: knight 3 no weapon_56
+  - first:
+      213: -1905559941875484501
+    second: knight 3 no weapon_57
+  - first:
+      213: -6438542979873040846
+    second: knight 3 no weapon_58
+  - first:
+      213: -8782154531734040250
+    second: knight 3 no weapon_59
+  - first:
+      213: 6725202457122903005
+    second: knight 3 no weapon_60
+  - first:
+      213: 5844895433698531916
+    second: knight 3 no weapon_61
+  - first:
+      213: -8234017047001519305
+    second: knight 3 no weapon_62
+  - first:
+      213: 5634309154803063549
+    second: knight 3 no weapon_63
+  - first:
+      213: -1708900171569878555
+    second: knight 3 no weapon_64
+  - first:
+      213: -8353946608159030262
+    second: knight 3 no weapon_65
+  - first:
+      213: 4918109737036543835
+    second: knight 3 no weapon_66
+  - first:
+      213: -2605229859277626560
+    second: knight 3 no weapon_67
+  - first:
+      213: -1270644222438129249
+    second: knight 3 no weapon_68
+  - first:
+      213: -6772465261701976832
+    second: knight 3 no weapon_69
+  - first:
+      213: -1217892889004528521
+    second: knight 3 no weapon_70
+  - first:
+      213: -8240961881903958532
+    second: knight 3 no weapon_71
+  - first:
+      213: 9177257733444061469
+    second: knight 3 no weapon_72
+  - first:
+      213: -2765826511103375778
+    second: knight 3 no weapon_73
+  - first:
+      213: 4571078088060270853
+    second: knight 3 no weapon_74
+  - first:
+      213: 4576571077622824397
+    second: knight 3 no weapon_75
+  - first:
+      213: -4259273126196210957
+    second: knight 3 no weapon_76
+  - first:
+      213: -5491083790474338156
+    second: knight 3 no weapon_77
+  - first:
+      213: -3183180799405881861
+    second: knight 3 no weapon_78
+  - first:
+      213: -5196741865408234779
+    second: knight 3 no weapon_79
+  - first:
+      213: 144495232130138923
+    second: knight 3 no weapon_80
+  - first:
+      213: 2146076380599476308
+    second: knight 3 no weapon_81
+  - first:
+      213: 3183392434272943038
+    second: knight 3 no weapon_82
+  - first:
+      213: -8907965092691066253
+    second: knight 3 no weapon_83
+  - first:
+      213: 5866327823313377972
+    second: knight 3 no weapon_84
+  - first:
+      213: 3607360917212315386
+    second: knight 3 no weapon_85
+  - first:
+      213: -3440969381724634535
+    second: knight 3 no weapon_86
+  - first:
+      213: 3827139664515928608
+    second: knight 3 no weapon_87
+  - first:
+      213: -503704442524217889
+    second: knight 3 no weapon_88
+  - first:
+      213: -8238412121303342833
+    second: knight 3 no weapon_89
+  - first:
+      213: 3380797198208489194
+    second: knight 3 no weapon_90
+  - first:
+      213: 7139158144081729042
+    second: knight 3 no weapon_91
+  - first:
+      213: -1494914889642960381
+    second: knight 3 no weapon_92
+  - first:
+      213: 5193189976868386132
+    second: knight 3 no weapon_93
+  - first:
+      213: -8838315446104214907
+    second: knight 3 no weapon_94
+  - first:
+      213: -945718595963971072
+    second: knight 3 no weapon_95
+  - first:
+      213: -3488641720597773367
+    second: knight 3 no weapon_96
+  - first:
+      213: -1467405954414955985
+    second: knight 3 no weapon_97
+  - first:
+      213: 6311979140409236728
+    second: knight 3 no weapon_98
+  - first:
+      213: -1500022582034722697
+    second: knight 3 no weapon_99
+  - first:
+      213: -9035089177677162234
+    second: knight 3 no weapon_100
+  - first:
+      213: 1351034811758000480
+    second: knight 3 no weapon_101
+  - first:
+      213: -2475833304039503964
+    second: knight 3 no weapon_102
+  - first:
+      213: -2329612782982708180
+    second: knight 3 no weapon_103
+  - first:
+      213: 487491846738665486
+    second: knight 3 no weapon_104
+  - first:
+      213: -134976266338627436
+    second: knight 3 no weapon_105
+  - first:
+      213: -5702785448370022413
+    second: knight 3 no weapon_106
+  - first:
+      213: 7859845569225591033
+    second: knight 3 no weapon_107
+  - first:
+      213: 3407180389467178262
+    second: knight 3 no weapon_108
+  - first:
+      213: 8669741940930127822
+    second: knight 3 no weapon_109
+  - first:
+      213: 1498464208550386377
+    second: knight 3 no weapon_110
+  - first:
+      213: -6168317884938657711
+    second: knight 3 no weapon_111
+  - first:
+      213: 5275163221738219169
+    second: knight 3 no weapon_112
+  - first:
+      213: 8062299169332267751
+    second: knight 3 no weapon_113
+  - first:
+      213: 8057705083022200174
+    second: knight 3 no weapon_114
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knight 3 no weapon_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 208
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772ed9a9566bb72c0800000000000000
+      internalID: -4432748860714130825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 208
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c907965168d7e90800000000000000
+      internalID: -7026312417106682817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 208
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55abe68c99bfbfd0800000000000000
+      internalID: -2323934800770259620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 208
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274969cc0368d3240800000000000000
+      internalID: 4773118724231566450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 208
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bb5617daf18f6c0800000000000000
+      internalID: -4109499830183281788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 209
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6d5d203bd132c30800000000000000
+      internalID: 4333339921144469246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 208
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8cb03e3cbc345b0800000000000000
+      internalID: -5385236687216719658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 145
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c3e946b01426750800000000000000
+      internalID: 6296666746205912203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 144
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0bf935ea1c1e760800000000000000
+      internalID: 7485477010137919702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 145
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2f233224a0ca380800000000000000
+      internalID: -8958774279572098329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 144
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c550ded85d964c8d0800000000000000
+      internalID: -2827018300151757476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 145
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c973e924b1c5880800000000000000
+      internalID: -8620985613757735874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_12
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 144
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e4370ab604f6310800000000000000
+      internalID: 1400408840133103218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 144
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1e46be7d64fcf60800000000000000
+      internalID: 8056736151570276770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 80
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58fa496e0b09e380800000000000000
+      internalID: -8941603428643440550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 78
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ff129407b55fac0800000000000000
+      internalID: -3822048170932568307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 80
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8659b1e12801f02a0800000000000000
+      internalID: -6769173563877649048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_17
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 80
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d070f22e14cd8710800000000000000
+      internalID: 1697228268302790865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_18
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 80
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac456c799842ea80800000000000000
+      internalID: -8439102927684678487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_19
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 80
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51c96b633d3b3820800000000000000
+      internalID: 2898978076197765470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_20
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 80
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204246155eb9d2ad0800000000000000
+      internalID: -2725350790273948670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 16
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d272b771ba85c5a0800000000000000
+      internalID: -6501637992217414951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 16
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093ae9d64c7f98060800000000000000
+      internalID: 6956363522475205520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_23
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 18
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbf5f94e0549ac80800000000000000
+      internalID: -8311035709662823462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_24
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 13
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f79a15037f82e10800000000000000
+      internalID: 2173258607106817939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_25
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 13
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4697ecc7467b00c30800000000000000
+      internalID: 4323657284494195044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_26
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 16
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a295d21ac2cf66930800000000000000
+      internalID: 4136270576399243562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight 3 no weapon_27
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 16
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88e3915fd35f2030800000000000000
+      internalID: 3472086056337401994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
